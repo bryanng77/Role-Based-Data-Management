@@ -8,3 +8,6 @@ Hence, a system to dynamically filter data based on user roles was required to e
 Case Study 1️⃣: A manager accidentally accessed payroll data for another department due to a lack of proper access controls. This incident not only breached privacy but also risked non-compliance with data protection laws, highlighting the urgent need for a more secure and role-sensitive data management system.
 
 Case Study 2️⃣: A manager from another department unintentionally accessed confidential performance review data for employees outside their department.
+
+
+## Notes -> Some managers from each department should have special read & edit decisisons.
