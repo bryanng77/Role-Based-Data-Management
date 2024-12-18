@@ -14,3 +14,4 @@ For example:
 
 3️⃣ An Employee has access only to their personal information, shielding them from unnecessary exposure to broader datasets.
 
+![Uploading Screenshot 2024-12-18 at 5.43.00 PM.png…]()
