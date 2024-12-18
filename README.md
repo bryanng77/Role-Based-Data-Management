@@ -10,7 +10,7 @@ For example:
 
 1️⃣ A Manager can view employee performance data and trends, but only for their department.
 
-2️⃣ An HR Administrator can access organization-wide data but must adhere to strict logging and monitoring protocols.
+2️⃣ An HR Administrator (in this case, the People Analytics Team), can access organization-wide data but must adhere to strict logging and monitoring protocols.
 
 3️⃣ An Employee has access only to their personal information, shielding them from unnecessary exposure to broader datasets.
 
