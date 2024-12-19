@@ -14,4 +14,4 @@ For example:
 
 3️⃣ An Employee has access only to their personal information, shielding them from unnecessary exposure to broader datasets.
 
-![Screenshot 2024-12-18 at 5 43 59 PM](https://github.com/user-attachments/assets/e74a96c0-6394-40d8-909b-e2e2845e7c35)
+![Role Based Data ManagementM](https://github.com/user-attachments/assets/e74a96c0-6394-40d8-909b-e2e2845e7c35)
