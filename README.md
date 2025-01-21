@@ -15,12 +15,15 @@ For example:
 3️⃣ An Employee has access only to their personal information, shielding them from unnecessary exposure to broader datasets.
 
 
-Insights and Recommendations are provided on the following key areas:
+## Objectives
 
-+ point 1
-+ point 2
-+ point 3
-+ point 4
++ Enhance the security of employee data by implementing role-based access controls.
+
++ Provide granular access tailored to specific roles, ensuring users only access information relevant to their responsibilities.
+
++ Reduce risks of data breaches and compliance violations.
+
++ Enable data-driven decision-making by organizing and analyzing workforce data efficiently.
 
 An interactive PowerBI Dashboard can be downloaded **here.**
 
