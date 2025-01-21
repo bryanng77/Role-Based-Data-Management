@@ -1,0 +1,4 @@
+RoleID,RoleName,CanView,CanEdit
+1,Admin,1,1
+2,Manager,1,1
+3,Employee,1,0
