@@ -15,3 +15,8 @@ For example:
 3️⃣ An Employee has access only to their personal information, shielding them from unnecessary exposure to broader datasets.
 
 
+Insights and Recommendations are provided on the following key areas:
+ * 
+ *
+ *
+ *
