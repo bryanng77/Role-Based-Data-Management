@@ -42,6 +42,8 @@ The database structure as seen below consists of two tables: Users and Roles, wi
 
 Before beginning the analysis, various checks were conducted for quality control and familiarization with the datasets. The SQL queries utilized to inspect and perform the quality checks can be found **here.**
 
+## Executive Summary
 
+### Oveeview of Findings
 
 
