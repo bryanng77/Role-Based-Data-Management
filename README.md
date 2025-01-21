@@ -30,6 +30,8 @@ The SQL queries utlized to clean, organize, and prepare data for the dashboard c
 
 Targeted SQL Queries regarding various bisiness questions can be found here.
 
+## Data Structure and Initial Checks
+
 
 
 
