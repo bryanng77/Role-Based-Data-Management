@@ -16,7 +16,6 @@ For example:
 
 
 Insights and Recommendations are provided on the following key areas:
- * 
- *
- *
- *
+
++ point 1
+
