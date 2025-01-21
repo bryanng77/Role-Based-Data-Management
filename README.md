@@ -18,4 +18,19 @@ For example:
 Insights and Recommendations are provided on the following key areas:
 
 + point 1
++ point 2
++ point 3
++ point 4
+
+An interactive PowerBI Dashboard can be downloaded here.
+
+The SQL queries utilized to inspect and perform quality checks can be found here.
+
+The SQL queries utlized to clean, organize, and prepare data for the dashboard can be found here.
+
+Targeted SQL Queries regarding various bisiness questions can be found here.
+
+
+
+
 
