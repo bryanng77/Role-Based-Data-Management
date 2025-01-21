@@ -14,7 +14,6 @@ For example:
 
 3️⃣ An Employee has access only to their personal information, shielding them from unnecessary exposure to broader datasets.
 
-
 ## Objectives
 
 + Enhance the security of employee data by implementing role-based access controls.
@@ -24,6 +23,8 @@ For example:
 + Reduce risks of data breaches and compliance violations.
 
 + Enable data-driven decision-making by organizing and analyzing workforce data efficiently.
+
+## Data Content
 
 An interactive PowerBI Dashboard can be downloaded **here.**
 
