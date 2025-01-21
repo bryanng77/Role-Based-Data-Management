@@ -21,6 +21,7 @@ WITH
 -- SELECT *
 -- FROM main_table
 
+-- Count of Employees by Departments
 SELECT DepartmentName
 , COUNT(*) AS department_count
 FROM main_table
@@ -28,6 +29,7 @@ WHERE IsActive = 1
 GROUP BY DepartmentName
 ORDER BY department_count ASC;
 
+-- Department Breakdown based on Roles
 SELECT
     DepartmentName
     , RoleName
