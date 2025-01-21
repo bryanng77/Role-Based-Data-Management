@@ -14,4 +14,30 @@ For example:
 
 3️⃣ An Employee has access only to their personal information, shielding them from unnecessary exposure to broader datasets.
 
-![Role Based Data ManagementM](https://github.com/user-attachments/assets/e74a96c0-6394-40d8-909b-e2e2845e7c35)
+
+Insights and Recommendations are provided on the following key areas:
+
++ point 1
++ point 2
++ point 3
++ point 4
+
+An interactive PowerBI Dashboard can be downloaded **here.**
+
+The SQL queries utilized to inspect and perform quality checks can be found **here.**
+
+The SQL queries utlized to clean, organize, and prepare data for the dashboard can be found **here.**
+
+Targeted SQL Queries regarding various bisiness questions can be found **here.**
+
+## Data Structure and Initial Checks
+
+The database strucre as seen below consists of two tables: Users and Roles, with a total row count of 251 records.
+
+< insert pictures of the database >
+
+Prior to beginning the analysis, a varity of checks were conducted for quality control and familiarization with the datasets. The SQL queries utlizied to insepcted and perform the quality checks can be found **here.**
+
+
+
+
