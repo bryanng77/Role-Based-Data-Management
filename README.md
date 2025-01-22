@@ -26,9 +26,6 @@ For example:
 
 ## Data Content
 
-An interactive PowerBI Dashboard can be downloaded [**here.**](![Screenshot 2025-01-22 at 1 45 36 AM](https://github.com/user-attachments/assets/2c2b0d4b-1a89-4844-9ce9-0255f750f2bf)
-)
-
 The SQL queries utilized to clean, organize, and prepare data for the dashboard can be found [**here.**](https://github.com/bryanng77/Role-Based-Data-Management/blob/main/Data%20Cleaning%20Role-Based-Data-Management.sql)
 
 Targeted SQL Queries regarding various business questions can be found [**here.**](https://github.com/bryanng77/Role-Based-Data-Management/blob/main/SQL%20Business%20Questions%20Queries%20Role-Based-Data_Management.sql)
@@ -47,7 +44,7 @@ Before beginning the analysis, various checks were conducted for quality control
 
 The Role-Based Data Management project addressed critical security issues after a manager accessed unauthorized payroll data, exposing compliance risks. It implemented role-based access controls to secure sensitive information, ensure compliance, and analyze workforce data.
 
-Analysis revealed significant variations in data access across departments. Engineering and Sales had the largest share of active employees (50 and 40 respectively), while smaller departments like Legal (5) and Support showed lower engagement, with Support having the highest inactivity rate (40%). Managerial roles were heavily concentrated in editing permissions, accounting for 25% of active employees, emphasizing the need for stricter access control protocols.
+Analysis revealed significant variations in data access across departments. Engineering and Sales had the largest share of active employees (50 and 40 respectively), while smaller departments like Legal (5) and Support showed lower engagement, with Support having the highest inactivity rate (40%). Managerial roles were heavily concentrated on editing permissions, accounting for 25% of active employees, emphasizing the need for stricter access control protocols.
 
 ![Screenshot 2025-01-22 at 1 45 36 AM](https://github.com/user-attachments/assets/a62f5629-4e1c-4479-bda6-f169647c0afa)
 
