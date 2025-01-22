@@ -78,13 +78,14 @@ Simple color schemes and clear fonts improve readability, and the visual hierarc
 ## Insights & Recommendations
 
 ### **1. Data Security and Compliance**
+#### Insights:
 + Compliance Risk: A prior data breach, caused by inadequate access controls, exposed sensitive information and highlighted the organization's vulnerability to non-compliance with data protection laws.
 + Editing Rights Concentration: A small subset of users has a disproportionate level of access, posing risks of accidental or intentional misuse.
 
-Recommendations:
-Enforce multi-factor authentication (MFA) for users with high-level access (e.g., Admin and Manager roles).
-Deploy real-time monitoring systems to flag suspicious activity or unauthorized access attempts.
-Incorporate role-based access simulations during onboarding to educate employees on best practices for data security.
+#### Recommendations:
++ Enforce multi-factor authentication (MFA) for users with high-level access (e.g., Admin and Manager roles).
++ Deploy real-time monitoring systems to flag suspicious activity or unauthorized access attempts.
++ Incorporate role-based access simulations during onboarding to educate employees on best practices for data security.
 
 
 
