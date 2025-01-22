@@ -30,7 +30,7 @@ An interactive PowerBI Dashboard can be downloaded [**here.**](https://app.power
 
 The SQL queries utilized to clean, organize, and prepare data for the dashboard can be found [**here.**](https://github.com/bryanng77/Role-Based-Data-Management/blob/main/Data%20Cleaning%20Role-Based-Data-Management.sql)
 
-Targeted SQL Queries regarding various business questions can be found **here.**
+Targeted SQL Queries regarding various business questions can be found [**here.**](https://github.com/bryanng77/Role-Based-Data-Management/blob/main/SQL%20Business%20Questions%20Queries%20Role-Based-Data_Management.sql)
 
 ## Data Structure and Initial Checks
 
