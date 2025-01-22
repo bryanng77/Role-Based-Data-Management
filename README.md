@@ -77,7 +77,7 @@ Simple color schemes and clear fonts improve readability, and the visual hierarc
 
 ## Insights & Recommendations
 
-**1. Data Security and Compliance**
+### **1. Data Security and Compliance**
 + Compliance Risk: A prior data breach, caused by inadequate access controls, exposed sensitive information and highlighted the organization's vulnerability to non-compliance with data protection laws.
 + Editing Rights Concentration: A small subset of users has a disproportionate level of access, posing risks of accidental or intentional misuse.
 
