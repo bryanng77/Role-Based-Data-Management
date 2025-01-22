@@ -52,6 +52,31 @@ Analysis revealed significant variations in data access across departments. Engi
 
 ![Screenshot 2025-01-22 at 1 45 36 AM](https://github.com/user-attachments/assets/a62f5629-4e1c-4479-bda6-f169647c0afa)
 
+### Dashboard Design Considerations
+
+1. Clear and Intuitive Design
+Header: The title, "ROLE TRACKING DASHBOARD," immediately informs the viewer about the purpose of the dashboard.
+Personalized Greeting: The inclusion of “Good Morning Bryan!” adds a personalized touch, which enhances user experience and engagement.
+KPI Cards: Key performance indicators (KPIs) such as "Total Employees" and "Edit Privileges" are displayed prominently, providing at-a-glance metrics that are critical for decision-making.
+
+2. Focus on Actionable Insights
+Filter Options: Dropdown filters for Editing Rights, Role, and Department allow users to customize their view and focus on specific subsets of data.
+Data Distribution: The "Role Distribution" pie chart visually shows the proportion of each role, while the "Employee by Department" bar chart highlights departmental workforce distribution. Both visuals make patterns and disparities easy to spot.
+
+3. Balanced Use of Space
+The layout evenly distributes KPIs, visualizations, and detailed tables without overcrowding any section. This ensures that the dashboard remains visually appealing and easy to navigate.
+
+4. Detailed Insights
+The Department Breakdown Table provides granular data (e.g., employee names, emails, roles), enabling deeper dives into the dataset without needing additional tools.
+
+5. Customization and Interactivity
+The filters at the top enhance interactivity, empowering users to explore the data dynamically and uncover insights specific to their needs.
+
+6. Accessibility
+Simple color schemes and clear fonts improve readability, and the visual hierarchy (KPIs at the top, detailed data at the bottom) guides the user naturally through the dashboard.
+
+## Recommendations
+
 
 
 
