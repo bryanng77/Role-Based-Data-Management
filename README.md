@@ -26,7 +26,8 @@ For example:
 
 ## Data Content
 
-An interactive PowerBI Dashboard can be downloaded [**here.**](https://app.powerbi.com/reportEmbed?reportId=d8389b40-3911-4e2c-9228-5bdc962dc613&autoAuth=true&ctid=44045d78-cc95-4d18-8527-662fb5d54407)
+An interactive PowerBI Dashboard can be downloaded [**here.**](![Screenshot 2025-01-22 at 1 45 36 AM](https://github.com/user-attachments/assets/2c2b0d4b-1a89-4844-9ce9-0255f750f2bf)
+)
 
 The SQL queries utilized to clean, organize, and prepare data for the dashboard can be found [**here.**](https://github.com/bryanng77/Role-Based-Data-Management/blob/main/Data%20Cleaning%20Role-Based-Data-Management.sql)
 
