@@ -50,7 +50,8 @@ The Role-Based Data Management project addressed critical security issues after 
 
 Analysis revealed significant variations in data access across departments. Engineering and Sales had the largest share of active employees (50 and 40 respectively), while smaller departments like Legal (5) and Support showed lower engagement, with Support having the highest inactivity rate (40%). Managerial roles were heavily concentrated in editing permissions, accounting for 25% of active employees, emphasizing the need for stricter access control protocols.
 
-![Uploading Screenshot 2025-01-22 at 1.45.36 AM.png…]()
+![Screenshot 2025-01-22 at 1 45 36 AM](https://github.com/user-attachments/assets/a62f5629-4e1c-4479-bda6-f169647c0afa)
+
 
 
 
