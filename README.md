@@ -87,7 +87,23 @@ Simple color schemes and clear fonts improve readability, and the visual hierarc
 + Deploy real-time monitoring systems to flag suspicious activity or unauthorized access attempts.
 + Incorporate role-based access simulations during onboarding to educate employees on best practices for data security.
 
+### 2. Role-Based Access
+#### Insights:
++ Concentration of Editing Privileges: Approximately 25% of active employees hold editing rights, with most concentrated in managerial roles. This can lead to inefficiencies and increased security risks.
++ Administrative Role Risks: Administrative roles, though fewer, often have unrestricted access, making them critical points of vulnerability.
++ Role Distribution Gaps: The workforce is dominated by employee and manager roles, with minimal representation of administrative roles (1%). This imbalance may lead to overreliance on a few Admins for sensitive tasks.
+  
+**Recommendations:**
++ Introduce a tiered permission structure to ensure only necessary editing rights are granted, reducing security risks.
++ Conduct quarterly audits of role permissions to verify compliance with the principle of least privilege.
++ Implement temporary privilege escalation policies for time-limited tasks requiring elevated access.
 
+**3. Process and Technology**
+#### Insights:
++ Data Siloing: Lack of cross-departmental visibility into employee roles and permissions hampers effective collaboration and resource allocation.
++ Manual Processes: Over-reliance on manual data management increases the risk of errors and delays.
 
-
-
+**Recommendations:**
++ Adopt a centralized role management system to maintain an up-to-date record of permissions and workforce distribution.
++ Automate data entry, reporting, and permission updates using tools like workflow automation platforms or custom scripts.
++ Conduct regular process reviews to identify bottlenecks and improve role allocation efficiency.
