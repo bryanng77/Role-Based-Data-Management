@@ -28,9 +28,7 @@ For example:
 
 An interactive PowerBI Dashboard can be downloaded [**here.**](https://app.powerbi.com/links/9IubaV5BEk?ctid=44045d78-cc95-4d18-8527-662fb5d54407&pbi_source=linkShare)
 
-The SQL queries utilized to inspect and perform quality checks can be found **here.**
-
-The SQL queries utilized to clean, organize, and prepare data for the dashboard can be found **here.**
+The SQL queries utilized to clean, organize, and prepare data for the dashboard can be found [**here.**](https://github.com/bryanng77/Role-Based-Data-Management/blob/main/Data%20Cleaning%20Role-Based-Data-Management.sql)
 
 Targeted SQL Queries regarding various business questions can be found **here.**
 
