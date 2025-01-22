@@ -26,7 +26,7 @@ For example:
 
 ## Data Content
 
-An interactive PowerBI Dashboard can be downloaded **here.**
+An interactive PowerBI Dashboard can be downloaded [**here.**](https://app.powerbi.com/links/9IubaV5BEk?ctid=44045d78-cc95-4d18-8527-662fb5d54407&pbi_source=linkShare)
 
 The SQL queries utilized to inspect and perform quality checks can be found **here.**
 
