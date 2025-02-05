@@ -1,4 +1,4 @@
-# 🫂 Role-Based-Data-Management
+# 🫂 Role Based Data Management
 
 ## Project Background
 The People Analytics team initiated the Role-Based Data Management project to tackle challenges in securely managing employee data and providing tailored access to sensitive information. This project was critical as a manager accidentally accessed payroll data for another department due to a lack of proper access controls. This incident breached privacy and risked non-compliance with data protection laws, highlighting the urgent need for a more secure and role-sensitive data management system.
